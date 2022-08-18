@@ -22,7 +22,7 @@
       <!-- Location -->
       <div class="text-gray-400 flex items-center gap-2">
          <i class="fas fa-map-marker-alt text-xxs"></i>
-         <span class="text-xxs">Jakarta, Indonesia</span>
+         <span class="text-xxs">Yogyakarta, Indonesia</span>
       </div>
       <!-- Wellcome notes -->
       <h1 class="text-2xl w-10/12 font-medium mt-5">
